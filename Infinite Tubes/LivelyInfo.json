@@ -1,0 +1,14 @@
+{
+  "AppVersion": "0.9.6.0",
+  "Title": "Infinite Tubes",
+  "Thumbnail": "lively_t.jpg",
+  "Preview": "lively_p.gif",
+  "Desc": "A tunnel experiment in WebGL.",
+  "Author": "Louis Hoebregts",
+  "License": "see license.txt",
+  "Contact": "https://github.com/Mamboleoo/InfiniteTubes",
+  "Type": 1,
+  "FileName": "index.html",
+  "Arguments": null,
+  "IsAbsolutePath": false
+}

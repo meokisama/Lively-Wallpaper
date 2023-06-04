@@ -1,0 +1,14 @@
+{
+  "scene": {
+    "type": "dropdown",
+    "value": 0,
+    "text": "Scene",
+    "items": [
+      "Brick",
+      "Particles",
+      "Star Wars",
+      "Bloodcells",
+      "Triangle"
+    ]
+  }
+}

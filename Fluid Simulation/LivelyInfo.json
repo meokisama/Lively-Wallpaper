@@ -1,0 +1,14 @@
+{
+  "AppVersion": "0.9.5.1",
+  "Title": "Fluid Simulation",
+  "Thumbnail": "lively_t.jpg",
+  "Preview": "lively_p.gif",
+  "Desc": "GPU fluid simulation experiment (High gpu usage warning.)",
+  "Author": "George Corney",
+  "License": "See license.txt",
+  "Contact": "https://github.com/haxiomic/GPU-Fluid-Experiments",
+  "Type": 1,
+  "FileName": "fluid.html",
+  "Arguments": null,
+  "IsAbsolutePath": false
+}
